@@ -289,6 +289,7 @@
 		059ECAB31332948E002B2C08 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastUpgradeCheck = 0420;
 				ORGANIZATIONNAME = eosgarden;
 			};
 			buildConfigurationList = 059ECAB61332948E002B2C08 /* Build configuration list for PBXProject "SoftwareUpdate" */;
