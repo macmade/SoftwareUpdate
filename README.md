@@ -1,6 +1,8 @@
 Software Update
 ===============
 
+[![Build Status](https://travis-ci.org/macmade/SoftwareUpdate.svg?branch=master)](https://travis-ci.org/macmade/SoftwareUpdate)
+
 About
 -----
 
