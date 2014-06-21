@@ -1,3 +1,4 @@
 language: objective-c
 xcode_project: SoftwareUpdate.xcodeproj
 xcode_scheme: SoftwareUpdate
+xcode_sdk: iphonesimulator
